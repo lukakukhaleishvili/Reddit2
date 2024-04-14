@@ -4,7 +4,7 @@ using Reddit.Dtos;
 using Reddit.Mapper;
 using Reddit.Models;
 using Reddit.Repositories;
-using Reddit.Repsitories;
+
 
 
 namespace Reddit.Controllers
